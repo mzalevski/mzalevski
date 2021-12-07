@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-My name is Maciej (in English it'd be something like 'Matzyey').
+Maciej (ipa: ˈmat͡ɕɛj, en: matzyey).
 
-I wrote [konstytucja.online](https://konstytucja.online).
+Lead Frontend Developer @ Jutro Medical
 
-I am working on [Miastoteka](https://miastoteka.com).
+#### Projects
+
+[konstytucja.online](https://konstytucja.online) - Polish Constitution reader.
+
+[Miastoteka](https://miastoteka.com) - app to help fight against vandalism.
