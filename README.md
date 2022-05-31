@@ -8,4 +8,4 @@ Lead Frontend Developer @ Jutro Medical
 
 [konstytucja.online](https://konstytucja.online) - Polish Constitution reader.
 
-[Miastoteka](https://miastoteka.com) - app to help fight against vandalism.
+[miastoteka.com](https://miastoteka.com) - app to help fight against vandalism.
